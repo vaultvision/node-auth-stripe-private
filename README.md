@@ -1,0 +1,1 @@
+# node-auth-stripe-private
